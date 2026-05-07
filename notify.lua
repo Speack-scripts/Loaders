@@ -11,4 +11,4 @@ StarterGui:SetCore("SendNotification", {
     Duration = 10 -- Duración en segundos
 })
 
-loadstring(game:HttpGet("https://github.com/Speack-scripts/Loaders/blob/main/Credits-Message.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Speack-scripts/Loaders/main/Credits-Message.lua"))()
