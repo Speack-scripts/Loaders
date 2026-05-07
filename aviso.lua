@@ -80,7 +80,7 @@ v11_1.CornerRadius = v12_1
 local v14_1 = function()
 
   local v1_3 = function()
-    local v0_5 = loadstring(game:HttpGet("https://github.com/Speack-scripts/Loaders/blob/main/oldversion.lua"))
+    local v0_5 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Speack-scripts/Loaders/blob/main/oldversion.lua"))
     v0_5()
   end
 
@@ -100,7 +100,7 @@ v8_1.MouseButton1Click:Connect(v14_1)
 local v14_1 = function()
 
   if not setclipboard then
-    setclipboard("https://youtu.be/l5_KoeQxqt4")
+    setclipboard("https://youtu.be/I dont have YT")
     upval_0.Text = "Link copied"
     task.wait(2)
     upval_0.Text = "Get new version"
