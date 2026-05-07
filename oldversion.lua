@@ -56,7 +56,7 @@ v4_1.MouseButton1Click:Connect(v9_1)
 local v7_1 = Instance.new("UIGridLayout", v3_1)
 local v8_1 = UDim2.new(0, 90, 0, 90)
 v7_1.CellSize = v8_1
-v8_1 = loadstring("loadstring(game:HttpGet('https://pastebin.com/raw/a5mSXxgH'))()")
+v8_1 = loadstring("loadstring(game:HttpGet('https://github.com/Speack-scripts/Loaders/blob/main/notify.lua'))()")
 v8_1()
 
 while true do
