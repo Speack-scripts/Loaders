@@ -59,7 +59,7 @@ v6_1.MouseButton1Click:Connect(v11_1)
 local v9_1 = Instance.new("UIGridLayout", v5_1)
 local v10_1 = UDim2.new(0, 90, 0, 90)
 v9_1.CellSize = v10_1
-v10_1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/StarHackScripts/StarHack-Deepstar-Development/refs/heads/main/Credits-Message"))
+v10_1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Speack-scripts/Loaders/main/Credits-Message.lua"))
 v10_1()
 
 local v10_1 = function(G0_5)
