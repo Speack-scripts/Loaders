@@ -11,4 +11,4 @@ StarterGui:SetCore("SendNotification", {
     Duration = 10 -- Duración en segundos
 })
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StarHackScripts/StarHack-Deepstar-Development/refs/heads/main/Credits-Message"))()
+loadstring(game:HttpGet("https://github.com/Speack-scripts/Loaders/blob/main/Credits-Message.lua"))()
